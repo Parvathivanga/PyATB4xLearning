@@ -8,4 +8,3 @@ print("The sum is", num1+num2)
 print("The sub is", num1-num2)
 print("The Mul is", num1*num2)
 print("The Div is", num1/num2)
-
